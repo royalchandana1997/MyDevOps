@@ -1,0 +1,32 @@
+github signup:
+
+mail -- royalchandana1997@gmail.com
+pwd -- Chandana@2703
+usn -- royalchandana1997
+
+GoDaddy:
+
+usn -- royalchandana1997
+pwd -- DevChandu@2703
+
+dockerhub
+oracle VM virtualbox -- centos-- pwd -- Chandana@2703
+                        ubuntu-- pwd --Chandana@2703
+
+AWS
+royalchandana1997@gmail.com
+pwd -- Chandana@2703
+pin 3690
+
+Jenkins
+username -- admin
+pwd -- @123AwsChandana
+
+vprofile-rds-rearch
+Master username
+admin
+Master password
+y5dMe5nnX3xTmkOUB1tC
+
+endpoint
+database-1.c7kewk6gaxex.us-east-1.rds.amazonaws.com
