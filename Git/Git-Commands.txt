@@ -96,3 +96,10 @@
   571  git clone git@github.com:imranvisualpath/titanwork.git
   572  rm -rf titanwork
   573  git clone git@github.com:imranvisualpath/titanwork.git
+
+create git repo in GitHub, go to the file in your PC which you want to upload in GitHub, right click and open gitbash , 
+git init
+git add .
+git commit  -m "  "
+git remote add origin <repo url>
+git push -u origin master
