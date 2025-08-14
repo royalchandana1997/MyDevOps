@@ -1,0 +1,19 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                sh 'docker build -t chandana/service:v1 .'
+            }
+        }
+        stage ("push") {
+            steps {
+                script {
+                withDockerRegistry(credentialsId: 'docker-cred') {
+                    sh 'docker push chandana/service:v1'
+                }
+            }
+        }
+    }
+}
