@@ -29,4 +29,13 @@ Master password
 y5dMe5nnX3xTmkOUB1tC
 
 endpoint
+
 database-1.c7kewk6gaxex.us-east-1.rds.amazonaws.com
+
+IAM user:
+terradmin
+AKIA6CDU36Q5HTOVL6HW
+
+
+
+
